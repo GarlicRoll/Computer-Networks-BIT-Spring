@@ -1,0 +1,1 @@
+C:\Users\glebp\PycharmProjects\ CGI-Support Multi-Threaded Web Server\.venv\Scripts\python.exe
